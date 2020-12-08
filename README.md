@@ -1,1 +1,1 @@
-# home-tass-js-6
+# home-task-js-6
